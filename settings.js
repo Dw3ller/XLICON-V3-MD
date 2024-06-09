@@ -45,20 +45,20 @@ global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
 //________________________________________________________________________________________________________
 global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
 //________________________________________________________________________________________________________
-global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
+global.location = process.env.GL_INFO || "nigera, somewhere, everywhere" //ur location
 //________________________________________________________________________________________________________
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || 'dwells-V3-MD' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
+global.ownernumber = process.env.SUDO || '2348125926761' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Salman Ahmad' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'dwells' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.wagc = process.env.GL_PUSH || "https://wa.link/5sf1yo"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
@@ -66,15 +66,15 @@ global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+global.packname = process.env.PACK_NAME || "Dweller"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = process.env.AUTHER_NAME || "who dwells"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "2348125926761@s.whatsapp.net"
 //________________________________________________________________________________________________________
-global.xprefix = process.env.PREFIX || '.'
+global.xprefix = process.env.PREFIX || ':'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["923184070915"] // Premium User
+global.premium = process.env.GL_VIP || ["2348125926761"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
@@ -104,10 +104,10 @@ global.groupevent = process.env.GROUP_ANNOUNCE_MSG || true //show update message
 //msg
 global.mess = {
 	limit: '_*Your limit is up!*_',
-	nsfw: '_*Nsfw is disabled in this group, Please tell the admin to enable*_',
+	nsfw: '_*Nsfw is disabled in this group, Please tell the admin to enable bich*_',
     done: '_*Done ✓*_',
-    error: '_*I am having error to execute this*_',
-    success: '_*Here you go!*_'
+    error: '_*I am having error to execute this check urself cus am always right 😐*_',
+    success: '_*Here you go now if you would excuse me i have some doujinshi to read!*_'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XliconMedia/theme/xliconpic.jpg')

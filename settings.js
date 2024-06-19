@@ -43,7 +43,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //________________________________________________________________________________________________________
 global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: Dw3ller" //ur github or insta name
 //________________________________________________________________________________________________________
 global.location = process.env.GL_INFO || "nigera, somewhere, everywhere" //ur location
 //________________________________________________________________________________________________________
@@ -72,7 +72,7 @@ global.author = process.env.AUTHER_NAME || "who dwells"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "2348125926761@s.whatsapp.net"
 //________________________________________________________________________________________________________
-global.xprefix = process.env.PREFIX || ':'
+global.xprefix = process.env.PREFIX || '@'
 //________________________________________________________________________________________________________
 global.premium = process.env.GL_VIP || ["2348125926761"] // Premium User
 //________________________________________________________________________________________________________

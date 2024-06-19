@@ -43,7 +43,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //________________________________________________________________________________________________________
 global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: Dw3ller" //ur github or insta name
 //________________________________________________________________________________________________________
 global.location = process.env.GL_INFO || "nigera, somewhere, everywhere" //ur location
 //________________________________________________________________________________________________________
@@ -56,7 +56,7 @@ global.ownernumber = process.env.SUDO || '2348125926761' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'dwells' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.YT_LINK || "https://youtube.com/@dw3ller_playz"
 //________________________________________________________________________________________________________
 global.wagc = process.env.GL_PUSH || "https://wa.link/5sf1yo"
 //________________________________________________________________________________________________________
@@ -64,7 +64,7 @@ global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://github.com/Dw3ller/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "Dweller"
 //________________________________________________________________________________________________________
